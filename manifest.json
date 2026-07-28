@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "updated": "2026-07-28",
+  "readBase": "https://cdn.jsdelivr.net/gh/MeridianAlgo/newsletters@main/",
+  "downloadBase": "https://raw.githubusercontent.com/MeridianAlgo/newsletters/main/",
+  "series": [
+    {
+      "id": "smart-cents-weekly",
+      "name": "Smart Cents Weekly",
+      "description": "One idea and one habit a week — personal finance without the jargon.",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "corporate-compass",
+      "name": "Corporate Compass",
+      "description": "A deeper look at how companies actually make money.",
+      "thumbnail": "thumbnails/corporate-compass.png"
+    },
+    {
+      "id": "meridian-brief",
+      "name": "Meridian Brief",
+      "description": "Market outlook and economic briefings.",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "smart-cents-weekly-week-18",
+      "title": "Smart Cents Weekly — Week 18",
+      "description": "Latest market insights and financial strategies.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 18,
+      "category": "Market Analysis",
+      "publishedDate": "2024-03-20",
+      "file": "issues/smart-cents-weekly-week-18.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-17",
+      "title": "Smart Cents Weekly — Week 17",
+      "description": "Weekly digest of financial news and tips.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 17,
+      "category": "Financial Tips",
+      "publishedDate": "2024-03-13",
+      "file": "issues/smart-cents-weekly-week-17.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-16",
+      "title": "Smart Cents Weekly — Week 16",
+      "description": "Understanding market trends and investment opportunities.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 16,
+      "category": "Investment",
+      "publishedDate": "2024-03-06",
+      "file": "issues/smart-cents-weekly-week-16.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-15",
+      "title": "Smart Cents Weekly — Week 15",
+      "description": "Strategic planning for personal finance.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 15,
+      "category": "Personal Finance",
+      "publishedDate": "2024-02-28",
+      "file": "issues/smart-cents-weekly-week-15.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-14",
+      "title": "Smart Cents Weekly — Week 14",
+      "description": "Analyzing recent economic shifts.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 14,
+      "category": "Economics",
+      "publishedDate": "2024-02-21",
+      "file": "issues/smart-cents-weekly-week-14.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-12",
+      "title": "Smart Cents Weekly — Week 12",
+      "description": "Deep dive into financial planning and wealth management.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 12,
+      "category": "Financial Planning",
+      "publishedDate": "2024-02-07",
+      "file": "issues/smart-cents-weekly-week-12.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-11",
+      "title": "Smart Cents Weekly — Week 11",
+      "description": "Navigating market volatility and risk management.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 11,
+      "category": "Risk Management",
+      "publishedDate": "2024-01-31",
+      "file": "issues/smart-cents-weekly-week-11.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-10",
+      "title": "Smart Cents Weekly — Week 10",
+      "description": "Advanced investment strategies for growing your wealth.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 10,
+      "category": "Wealth Building",
+      "publishedDate": "2024-01-24",
+      "file": "issues/smart-cents-weekly-week-10.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-09",
+      "title": "Smart Cents Weekly — Week 9",
+      "description": "Foundations of smart investing.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 9,
+      "category": "Education",
+      "publishedDate": "2024-01-17",
+      "file": "issues/smart-cents-weekly-week-09.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-08",
+      "title": "Smart Cents Weekly — Week 8",
+      "description": "Understanding compound interest and its long-term effects.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 8,
+      "category": "Finance Basics",
+      "publishedDate": "2024-01-10",
+      "file": "issues/smart-cents-weekly-week-08.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-07",
+      "title": "Smart Cents Weekly — Week 7",
+      "description": "Building a balanced portfolio for various market cycles.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 7,
+      "category": "Investment",
+      "publishedDate": "2024-01-03",
+      "file": "issues/smart-cents-weekly-week-07.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-06",
+      "title": "Smart Cents Weekly — Week 6",
+      "description": "Tax planning and efficient wealth preservation.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 6,
+      "category": "Tax Planning",
+      "publishedDate": "2023-12-27",
+      "file": "issues/smart-cents-weekly-week-06.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-05",
+      "title": "Smart Cents Weekly — Week 5",
+      "description": "Retirement planning and social security insights.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 5,
+      "category": "Retirement",
+      "publishedDate": "2023-12-20",
+      "file": "issues/smart-cents-weekly-week-05.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-04",
+      "title": "Smart Cents Weekly — Week 4",
+      "description": "Real estate investment and market indicators.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 4,
+      "category": "Real Estate",
+      "publishedDate": "2023-12-13",
+      "file": "issues/smart-cents-weekly-week-04.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-03",
+      "title": "Smart Cents Weekly — Week 3",
+      "description": "Debt management and credit score optimization.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 3,
+      "category": "Credit Management",
+      "publishedDate": "2023-12-06",
+      "file": "issues/smart-cents-weekly-week-03.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "corporate-compass-week-03",
+      "title": "Corporate Compass — Week 3",
+      "description": "Corporate insights and business strategy analysis.",
+      "series": "corporate-compass",
+      "seriesName": "Corporate Compass",
+      "week": 3,
+      "category": "Business Strategy",
+      "publishedDate": "2023-12-06",
+      "file": "issues/corporate-compass-week-03.pdf",
+      "thumbnail": "thumbnails/corporate-compass.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-02",
+      "title": "Smart Cents Weekly — Week 2",
+      "description": "Emergency funds and liquid asset management.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 2,
+      "category": "Personal Finance",
+      "publishedDate": "2023-11-29",
+      "file": "issues/smart-cents-weekly-week-02.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "smart-cents-weekly-week-01",
+      "title": "Smart Cents Weekly — Week 1",
+      "description": "Setting financial goals and developing a budget.",
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 1,
+      "category": "Budgeting",
+      "publishedDate": "2023-11-22",
+      "file": "issues/smart-cents-weekly-week-01.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
+      "id": "meridian-brief-week-01",
+      "title": "Meridian Brief — Week 1",
+      "description": "Initial market briefing and economic outlook.",
+      "series": "meridian-brief",
+      "seriesName": "Meridian Brief",
+      "week": 1,
+      "category": "Market Outlook",
+      "publishedDate": "2023-11-20",
+      "file": "issues/meridian-brief-week-01.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    }
+  ]
+}
