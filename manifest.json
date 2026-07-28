@@ -25,6 +25,20 @@
   ],
   "newsletters": [
     {
+      "id": "smart-cents-weekly-week-19",
+      "title": "Smart Cents Weekly — Week 19",
+      "description": "June CPI came in cool and stocks sold off anyway — AI capex doubts and $100 oil took over.",
+      "headline": "Inflation Cools, But AI Spending Panic and $100 Oil Take Over",
+      "topics": ["cpi", "ai-capex", "oil", "nvidia-openai", "earnings", "fed-chair"],
+      "series": "smart-cents-weekly",
+      "seriesName": "Smart Cents Weekly",
+      "week": 19,
+      "category": "Market Analysis",
+      "publishedDate": "2026-07-28",
+      "file": "issues/smart-cents-weekly-week-19.pdf",
+      "thumbnail": "thumbnails/smart-cents-weekly.png"
+    },
+    {
       "id": "smart-cents-weekly-week-18",
       "title": "Smart Cents Weekly — Week 18",
       "description": "Latest market insights and financial strategies.",
