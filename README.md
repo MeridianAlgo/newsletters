@@ -55,6 +55,26 @@ Each issue:
 `id` must be unique and `file` must exist — `validate.mjs` enforces both.
 `category` is free text; the site turns the distinct values into filter chips.
 
+Two optional fields are written by the bot (see below) and safe to add by hand:
+
+| Field | Meaning |
+|---|---|
+| `topics` | Array of short tags for what the issue covered. This is what stops the bot writing the same issue twice — the more accurate it is, the better the next issue. |
+| `headline` | The issue's own headline, as distinct from `title` (which is always `<Series> — Week N`). |
+
+## Automated issues
+
+[MeridianAlgo/newsletter-bot](https://github.com/MeridianAlgo/newsletter-bot)
+writes Smart Cents Weekly on a schedule and pushes here. It reads this manifest
+first and passes the recent issues' titles, descriptions and `topics` to the
+model as a don't-repeat list, so **this file is the bot's memory** — there is no
+other database. It validates the manifest against disk before committing, the
+same checks `validate.mjs` runs.
+
+Hand-written issues and bot issues are the same shape; you can add, edit or
+delete either without telling the bot. It picks up the next week number from the
+highest `week` already present in the series.
+
 
 ## Consuming this feed
 
