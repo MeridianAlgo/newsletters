@@ -55,10 +55,6 @@ Each issue:
 `id` must be unique and `file` must exist — `validate.mjs` enforces both.
 `category` is free text; the site turns the distinct values into filter chips.
 
-## Starting a new series
-
-Add an entry to `series`, drop a cover in `thumbnails/`, then reference the new
-`id` from your issues. Nothing on the website needs to change.
 
 ## Consuming this feed
 
