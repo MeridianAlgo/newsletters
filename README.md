@@ -12,15 +12,6 @@ thumbnails/        one cover image per series
 validate.mjs       checks the manifest against what's on disk
 ```
 
-## Publishing a new issue
-
-1. Drop the PDF in `issues/` named `<series>-week-<NN>.pdf`
-   (e.g. `smart-cents-weekly-week-19.pdf` — zero-padded, lowercase, no spaces).
-2. Add an entry to the top of the `newsletters` array in `manifest.json`.
-3. `node validate.mjs`
-4. Commit and push to `main`.
-
-The site picks it up within ~5 minutes (raw.githubusercontent CDN cache).
 
 ## Manifest format
 
